@@ -1,0 +1,19 @@
+livekit-agents/livekit/agents/voice/speech_handle.py
+  s_13c15019ce678a::t_53fdbb6acb2517 197-212
+---
+{
+  "schema_version": "authorship/3.0.0",
+  "git_ai_version": "1.7.4",
+  "base_commit_sha": "014a3f2a20817b5f910df476836020d1ef1d3386",
+  "prompts": {},
+  "sessions": {
+    "s_13c15019ce678a": {
+      "agent_id": {
+        "tool": "claude",
+        "id": "439b54b1-f5ea-4e21-9f93-d8d57f20af94",
+        "model": "claude-opus-5"
+      },
+      "human_author": "CICD <cicd@oneai.telekom.de>"
+    }
+  }
+}
