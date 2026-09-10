@@ -1,0 +1,25 @@
+livekit-agents/livekit/agents/voice/agent_activity.py
+  s_13c15019ce678a::t_042fc91a107f80 2060-2068,2072-2076
+livekit-agents/livekit/agents/voice/speech_handle.py
+  s_13c15019ce678a::t_43dfa0e0cc1cd7 113-123,133-135,149-157,164-169,171-172,177-223,264
+tests/test_realtime_input_speech_interrupt.py
+  s_13c15019ce678a::t_11f3791264c543 83-121
+tests/test_speech_handle_hold_interruptions.py
+  s_13c15019ce678a::t_a9c378efc22408 1-152
+---
+{
+  "schema_version": "authorship/3.0.0",
+  "git_ai_version": "1.7.4",
+  "base_commit_sha": "e3194628f808de6acb5fbac23dd96074448dabd1",
+  "prompts": {},
+  "sessions": {
+    "s_13c15019ce678a": {
+      "agent_id": {
+        "tool": "claude",
+        "id": "439b54b1-f5ea-4e21-9f93-d8d57f20af94",
+        "model": "claude-opus-5"
+      },
+      "human_author": "CICD <cicd@oneai.telekom.de>"
+    }
+  }
+}
